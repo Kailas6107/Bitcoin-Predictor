@@ -5,7 +5,6 @@ Bitcoin Predictor uses AI and ML to forecast Bitcoin prices, analyzing historica
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Bitcoin Predictor</title>
 </head>
 <body>
     <section>
@@ -18,6 +17,10 @@ Bitcoin Predictor uses AI and ML to forecast Bitcoin prices, analyzing historica
         <img src="https://i.imgur.com/xwFAvTL.jpg" >
 <p>The Bitcoin Predictor's interface is designed with accessibility in mind, offering clear visualizations and actionable insights. While the predictive capabilities of the tool are powerful, it is essential for users to employ it as a supplementary instrument alongside a robust investment strategy, considering the inherent volatility and unpredictability of the cryptocurrency market.</p>
 <p>This project is open-source, encouraging collaboration and continuous improvement from developers and data scientists who are passionate about leveraging technology to understand and predict financial markets.</p>
+        <img src="https://i.imgur.com/QgZbqwh.png">
+        <p>The application features a user-centric design with a clean, dark mode aesthetic that minimizes screen glare and enhances the visibility of key metrics under various lighting conditions.Intuitive navigation is at the core of the user interface, with clear segmentation of the site into Home, Market, News, About, and Login sections, ensuring that users can easily find the information they are looking for. The centerpiece of the application is the data-rich table displaying cryptocurrency names, icons, market caps, prices, available and total coin supplies, trading volumes, and the percentage change in price over the past 24 hours. The design highlights leading cryptocurrencies such as Bitcoin, Ethereum, and Tether at the forefront of the table, emphasizing their dominance and importance in the market.</p>
+        <img src="https://i.imgur.com/cTUBSLc.png">
+        <p> The page is set against a dark background with a dynamic blue waveform running across, suggesting connectivity and data flow which resonates with the theme of the application. The login module is centrally placed, with a clean and straightforward design featuring fields for the user ID and password.The module offers a 'Remember password' checkbox for user convenience, and is flanked by gradient-colored buttons for 'Login' and 'Register,' allowing for easy navigation between authentication processes. Additionally, there are options to sign in through social media platforms, as indicated by the Twitter and Instagram icons, providing users with alternative login methods</p>
     </section>
 </body>
 </html>
